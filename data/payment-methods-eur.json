@@ -1,0 +1,67 @@
+[
+  {
+    "currency": "EUR",
+    "methodType": "sepa",
+    "name": "SEPA Transfer",
+    "description": "Standard SEPA bank transfer across Europe",
+    "enabled": true,
+    "fields": [
+      { "name": "accountName", "label": "Account Holder Name", "type": "text", "required": true },
+      { "name": "iban", "label": "IBAN", "type": "text", "required": true },
+      { "name": "bic", "label": "BIC/SWIFT", "type": "text", "required": true },
+      { "name": "bankName", "label": "Bank Name", "type": "text", "required": true }
+    ],
+    "supportsCountries": ["DE", "FR", "IT", "ES", "NL", "BE", "AT", "GR", "PT", "FI", "IE", "LT", "LV", "EE", "SI", "SK", "LU", "MT", "CY"]
+  },
+  {
+    "currency": "EUR",
+    "methodType": "instant_sepa",
+    "name": "Instant SEPA",
+    "description": "Fast SEPA transfers within seconds",
+    "enabled": true,
+    "fields": [
+      { "name": "accountName", "label": "Account Holder Name", "type": "text", "required": true },
+      { "name": "iban", "label": "IBAN", "type": "text", "required": true },
+      { "name": "bic", "label": "BIC/SWIFT", "type": "text", "required": true },
+      { "name": "bankName", "label": "Bank Name", "type": "text", "required": true },
+      { "name": "reference", "label": "Payment Reference", "type": "text", "required": true }
+    ],
+    "supportsCountries": ["DE", "FR", "IT", "ES", "NL", "BE", "AT", "PT", "FI", "LT", "LV", "EE"]
+  },
+  {
+    "currency": "EUR",
+    "methodType": "revolut",
+    "name": "Revolut",
+    "description": "Send EUR to a Revolut account",
+    "enabled": true,
+    "fields": [
+      { "name": "phoneNumber", "label": "Revolut Phone Number", "type": "text", "required": true },
+      { "name": "name", "label": "Full Name", "type": "text", "required": true }
+    ],
+    "supportsCountries": ["DE", "FR", "IT", "ES", "NL", "BE", "AT", "GR", "PT", "FI", "IE", "LT", "LV", "EE", "SI", "SK", "LU", "MT", "CY", "GB"]
+  },
+  {
+    "currency": "EUR",
+    "methodType": "n26",
+    "name": "N26",
+    "description": "Send EUR to an N26 account",
+    "enabled": true,
+    "fields": [
+      { "name": "accountName", "label": "Account Holder Name", "type": "text", "required": true },
+      { "name": "iban", "label": "IBAN", "type": "text", "required": true }
+    ],
+    "supportsCountries": ["DE", "FR", "IT", "ES", "AT", "BE", "FI", "GR", "IE", "LT", "LV", "LU", "NL", "PT", "SI", "SK"]
+  },
+  {
+    "currency": "EUR",
+    "methodType": "advcash",
+    "name": "AdvCash",
+    "description": "Send EUR to an AdvCash account",
+    "enabled": true,
+    "fields": [
+      { "name": "accountEmail", "label": "AdvCash Email", "type": "email", "required": true },
+      { "name": "name", "label": "Full Name", "type": "text", "required": true }
+    ],
+    "supportsCountries": ["DE", "FR", "IT", "ES", "NL", "BE", "AT", "GR", "PT", "FI", "IE", "LT", "LV", "EE", "SI", "SK", "LU", "MT", "CY"]
+  }
+]

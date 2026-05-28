@@ -1,0 +1,54 @@
+{
+  "header": {
+    "connect": "เชื่อมต่อ",
+    "exchange": "แลกเปลี่ยน",
+    "marketplace": "ตลาด",
+    "dashboard": "แดชบอร์ด",
+    "language": "ภาษา",
+    "theme": "ธีม",
+    "darkMode": "โหมดมืด",
+    "lightMode": "โหมดสว่าง",
+    "settings": "ตั้งค่า",
+    "globalPreferences": "การตั้งค่าทั่วไป"
+  },
+  "exchange": {
+    "buy": "ซื้อ",
+    "sell": "ขาย",
+    "selectToken": "เลือกโทเค็น",
+    "enterAmount": "ใส่จำนวน",
+    "payWith": "ชำระด้วย",
+    "receiveMethod": "วิธีรับ",
+    "youPay": "คุณชำระ",
+    "youReceive": "คุณได้รับ",
+    "reviewOrder": "ตรวจสอบคำสั่ง",
+    "placeOrder": "ส่งคำสั่ง"
+  },
+  "marketplace": {
+    "buyOffers": "ข้อเสนอซื้อ",
+    "sellOffers": "ข้อเสนอขาย",
+    "price": "ราคา",
+    "amount": "จำนวน",
+    "payment": "การชำระเงิน",
+    "actions": "การกระทำ",
+    "trade": "ซื้อขาย",
+    "filterBy": "กรองตาม",
+    "createOffer": "สร้างข้อเสนอ"
+  },
+  "dashboard": {
+    "activity": "กิจกรรม",
+    "offers": "ข้อเสนอ",
+    "accounts": "บัญชี",
+    "transactions": "ธุรกรรม",
+    "totalBalance": "ยอดรวม",
+    "recentActivity": "กิจกรรมล่าสุด",
+    "viewAll": "ดูทั้งหมด"
+  },
+  "account": {
+    "connected": "เชื่อมต่อแล้ว",
+    "disconnect": "ตัดการเชื่อมต่อ",
+    "wallets": "กระเป๋าเงิน",
+    "banks": "บัญชีธนาคาร",
+    "addAccount": "เพิ่มบัญชี",
+    "connectWallet": "เชื่อมต่อกระเป๋าเงิน"
+  }
+}

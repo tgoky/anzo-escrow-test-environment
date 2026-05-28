@@ -1,0 +1,75 @@
+{
+  "header": {
+    "connect": "Connect",
+    "exchange": "Exchange",
+    "marketplace": "Marketplace",
+    "dashboard": "Dashboard",
+    "language": "Language",
+    "theme": "Theme",
+    "darkMode": "Dark",
+    "lightMode": "Light",
+    "settings": "Settings",
+    "globalPreferences": "Global Preferences"
+  },
+  "exchange": {
+    "buy": "Buy",
+    "sell": "Sell",
+    "selectToken": "Select Token",
+    "enterAmount": "Enter Amount",
+    "payWith": "Pay With",
+    "receiveMethod": "Receive Method",
+    "youPay": "You Pay",
+    "youReceive": "You Receive",
+    "reviewOrder": "Review Order",
+    "placeOrder": "Place Order"
+  },
+  "marketplace": {
+    "buyOffers": "Buy Offers",
+    "sellOffers": "Sell Offers",
+    "price": "Price",
+    "amount": "Amount",
+    "payment": "Payment",
+    "actions": "Actions",
+    "trade": "Trade",
+    "filterBy": "Filter By",
+    "createOffer": "Create Offer"
+  },
+  "dashboard": {
+    "activity": "Activity",
+    "offers": "Offers",
+    "accounts": "Accounts",
+    "transactions": "Transactions",
+    "totalBalance": "Total Balance",
+    "recentActivity": "Recent Activity",
+    "viewAll": "View All"
+  },
+  "account": {
+    "connected": "Connected",
+    "disconnect": "Disconnect",
+    "wallets": "Wallets",
+    "banks": "Bank Accounts",
+    "addAccount": "Add Account",
+    "connectWallet": "Connect Wallet"
+  },
+  "landingPage": {
+    "mainSlogan": "Exchange any money, anywhere.",
+    "description": "The leading onchain stablecoin marketplace. Buy and sell local money for stablecoins on",
+    "scrollDown": "Scroll down",
+    "features": {
+      "title": "Explore Our Key Features",
+      "subtitle": "Choose your path to crypto trading excellence",
+      "exchangeTitle": "Exchange",
+      "exchangeDescription": "Buy and sell cryptocurrencies directly with our simple exchange interface. Fast, secure, and non-custodial.",
+      "startExchangeButton": "Start Exchange",
+      "marketplaceTitle": "Marketplace",
+      "marketplaceDescription": "Browse active offers from other users and find the best prices for your crypto trades in our P2P marketplace.",
+      "visitMarketplaceButton": "Visit Marketplace",
+      "createOfferTitle": "Create Offer",
+      "createOfferDescription": "Provide liquidity to the market by creating your own crypto buy or sell offers with your preferred payment methods.",
+      "createNewOfferButton": "Create New Offer",
+      "createOfferButtonLabel": "Create Offer",
+      "startTradingButton": "Start Trading Now",
+      "securityNote": "Secure, non-custodial trading on Solana"
+    }
+  }
+}

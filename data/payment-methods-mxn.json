@@ -1,0 +1,38 @@
+[
+  {
+    "currency": "MXN",
+    "methodType": "bank_transfer",
+    "name": "Bank Transfer",
+    "description": "Regular bank transfer",
+    "enabled": true,
+    "accountType": "bank_account",
+    "fields": [
+      {
+        "name": "accountName",
+        "label": "Account Holder Name",
+        "type": "text",
+        "required": true,
+        "position": 0
+      },
+      {
+        "name": "accountNumber",
+        "label": "Account Number",
+        "type": "text",
+        "required": true,
+        "copyable": true,
+        "validation": "^[0-9]{8,17}$",
+        "position": 1
+      },
+      {
+        "name": "bankName",
+        "label": "Bank Name",
+        "type": "text",
+        "required": true,
+        "position": 2
+      }
+    ],
+    "supportsCountries": [
+      "US"
+    ]
+  }
+]

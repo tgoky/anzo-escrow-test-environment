@@ -1,0 +1,66 @@
+[
+  {
+    "currency": "USD",
+    "methodType": "zelle",
+    "name": "Zelle",
+    "description": "Fast bank-to-bank transfers in the US",
+    "enabled": true,
+    "fields": [
+      {
+        "name": "name",
+        "label": "Full Name",
+        "type": "text",
+        "required": true,
+        "description": "Full name as it appears on your Zelle account",
+        "copyable": true
+      },
+      {
+        "name": "email",
+        "label": "Zelle Email",
+        "type": "email",
+        "required": true,
+        "description": "Email address registered with Zelle",
+        "copyable": true
+      }
+    ],
+    "supportsCountries": [
+      "US"
+    ]
+  },
+  {
+    "currency": "USD",
+    "methodType": "cash_deposit",
+    "name": "Cash Deposit",
+    "description": "In-person cash deposit at bank branch",
+    "enabled": true,
+    "fields": [
+      {
+        "name": "accountName",
+        "label": "Account Name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "accountNumber",
+        "label": "Account Number",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "bankName",
+        "label": "Bank Name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "depositInstructions",
+        "label": "Deposit Instructions",
+        "type": "textarea",
+        "required": false
+      }
+    ],
+    "supportsCountries": [
+      "US"
+    ]
+  }
+]

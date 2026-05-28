@@ -1,0 +1,32 @@
+[
+  {
+    "currency": "ZAR",
+    "methodType": "bank_transfer",
+    "name": "Bank Transfer",
+    "description": "Regular bank transfer",
+    "enabled": true,
+    "fields": [
+      {
+        "name": "accountName",
+        "label": "Account Holder Name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "accountNumber",
+        "label": "Account Number",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "bankName",
+        "label": "Bank Name",
+        "type": "text",
+        "required": true
+      }
+    ],
+    "supportsCountries": [
+      "US"
+    ]
+  }
+]

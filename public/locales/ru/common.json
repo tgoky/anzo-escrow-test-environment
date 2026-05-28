@@ -1,0 +1,75 @@
+{
+  "header": {
+    "connect": "Подключить",
+    "exchange": "Обмен",
+    "marketplace": "Маркетплейс",
+    "dashboard": "Панель управления",
+    "language": "Язык",
+    "theme": "Тема",
+    "darkMode": "Тёмная",
+    "lightMode": "Светлая",
+    "settings": "Настройки",
+    "globalPreferences": "Общие настройки"
+  },
+  "exchange": {
+    "buy": "Купить",
+    "sell": "Продать",
+    "selectToken": "Выбрать токен",
+    "enterAmount": "Введите сумму",
+    "payWith": "Оплатить с помощью",
+    "receiveMethod": "Способ получения",
+    "youPay": "Вы платите",
+    "youReceive": "Вы получаете",
+    "reviewOrder": "Просмотр заказа",
+    "placeOrder": "Разместить заказ"
+  },
+  "marketplace": {
+    "buyOffers": "Предложения покупки",
+    "sellOffers": "Предложения продажи",
+    "price": "Цена",
+    "amount": "Сумма",
+    "payment": "Оплата",
+    "actions": "Действия",
+    "trade": "Торговать",
+    "filterBy": "Фильтровать по",
+    "createOffer": "Создать предложение"
+  },
+  "dashboard": {
+    "activity": "Активность",
+    "offers": "Предложения",
+    "accounts": "Счета",
+    "transactions": "Транзакции",
+    "totalBalance": "Общий баланс",
+    "recentActivity": "Последняя активность",
+    "viewAll": "Просмотреть все"
+  },
+  "account": {
+    "connected": "Подключено",
+    "disconnect": "Отключить",
+    "wallets": "Кошельки",
+    "banks": "Банковские счета",
+    "addAccount": "Добавить счёт",
+    "connectWallet": "Подключить кошелёк"
+  },
+  "landingPage": {
+    "mainSlogan": "Безопасный P2P обмен криптовалюты",
+    "description": "Покупайте и продавайте криптовалюту напрямую с другими пользователями. Без посредников, с прозрачными комиссиями и повышенной безопасностью.",
+    "scrollDown": "Прокрутите вниз, чтобы узнать больше",
+    "features": {
+      "title": "Ключевые особенности",
+      "subtitle": "Что делает Anzo особенным",
+      "exchangeTitle": "Простой обмен",
+      "exchangeDescription": "Быстрый и простой обмен криптовалюты по конкурентным ставкам",
+      "startExchangeButton": "Начать обмен",
+      "marketplaceTitle": "P2P Маркетплейс",
+      "marketplaceDescription": "Найдите лучшие предложения от пользователей со всего мира",
+      "visitMarketplaceButton": "Посетить маркетплейс",
+      "createOfferTitle": "Создайте своё предложение",
+      "createOfferDescription": "Установите свою цену и условия оплаты",
+      "createOfferButtonLabel": "Создать предложение",
+      "createNewOfferButton": "Создать новое предложение",
+      "startTradingButton": "Начать торговлю",
+      "securityNote": "Все транзакции защищены на блокчейне Solana для максимальной безопасности и прозрачности"
+    }
+  }
+}

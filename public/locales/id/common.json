@@ -1,0 +1,54 @@
+{
+  "header": {
+    "connect": "Hubungkan",
+    "exchange": "Tukar",
+    "marketplace": "Pasar",
+    "dashboard": "Dasbor",
+    "language": "Bahasa",
+    "theme": "Tema",
+    "darkMode": "Gelap",
+    "lightMode": "Terang",
+    "settings": "Pengaturan",
+    "globalPreferences": "Preferensi umum"
+  },
+  "exchange": {
+    "buy": "Beli",
+    "sell": "Jual",
+    "selectToken": "Pilih Token",
+    "enterAmount": "Masukkan Jumlah",
+    "payWith": "Bayar Dengan",
+    "receiveMethod": "Metode Penerimaan",
+    "youPay": "Anda Bayar",
+    "youReceive": "Anda Terima",
+    "reviewOrder": "Tinjau Pesanan",
+    "placeOrder": "Buat Pesanan"
+  },
+  "marketplace": {
+    "buyOffers": "Penawaran Beli",
+    "sellOffers": "Penawaran Jual",
+    "price": "Harga",
+    "amount": "Jumlah",
+    "payment": "Pembayaran",
+    "actions": "Tindakan",
+    "trade": "Perdagangan",
+    "filterBy": "Filter Berdasarkan",
+    "createOffer": "Buat Penawaran"
+  },
+  "dashboard": {
+    "activity": "Aktivitas",
+    "offers": "Penawaran",
+    "accounts": "Akun",
+    "transactions": "Transaksi",
+    "totalBalance": "Total Saldo",
+    "recentActivity": "Aktivitas Terbaru",
+    "viewAll": "Lihat Semua"
+  },
+  "account": {
+    "connected": "Terhubung",
+    "disconnect": "Putuskan",
+    "wallets": "Dompet",
+    "banks": "Rekening Bank",
+    "addAccount": "Tambah Akun",
+    "connectWallet": "Hubungkan Dompet"
+  }
+}

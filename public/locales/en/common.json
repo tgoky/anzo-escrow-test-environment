@@ -1,0 +1,75 @@
+{
+  "header": {
+    "connect": "Connect",
+    "exchange": "Exchange",
+    "marketplace": "Marketplace",
+    "dashboard": "Dashboard",
+    "language": "Language",
+    "theme": "Theme",
+    "darkMode": "Dark",
+    "lightMode": "Light",
+    "settings": "Settings",
+    "globalPreferences": "Global Preferences"
+  },
+  "exchange": {
+    "buy": "Buy",
+    "sell": "Sell",
+    "selectToken": "Select Token",
+    "enterAmount": "Enter Amount",
+    "payWith": "Pay With",
+    "receiveMethod": "Receive Method",
+    "youPay": "You Pay",
+    "youReceive": "You Receive",
+    "reviewOrder": "Review Order",
+    "placeOrder": "Place Order"
+  },
+  "marketplace": {
+    "buyOffers": "Buy Offers",
+    "sellOffers": "Sell Offers",
+    "price": "Price",
+    "amount": "Amount",
+    "payment": "Payment",
+    "actions": "Actions",
+    "trade": "Trade",
+    "filterBy": "Filter By",
+    "createOffer": "Create Offer"
+  },
+  "dashboard": {
+    "activity": "Activity",
+    "offers": "Offers",
+    "accounts": "Accounts",
+    "transactions": "Transactions",
+    "totalBalance": "Total Balance",
+    "recentActivity": "Recent Activity",
+    "viewAll": "View All"
+  },
+  "account": {
+    "connected": "Connected",
+    "disconnect": "Disconnect",
+    "wallets": "Wallets",
+    "banks": "Bank Accounts",
+    "addAccount": "Add Account",
+    "connectWallet": "Connect Wallet"
+  },
+  "landingPage": {
+    "mainSlogan": "Secure Peer-to-Peer Crypto Exchange",
+    "description": "Buy and sell crypto directly with other users. No middlemen, transparent fees, and enhanced security.",
+    "scrollDown": "Scroll down to learn more",
+    "features": {
+      "title": "Key Features",
+      "subtitle": "What makes Anzo different",
+      "exchangeTitle": "Easy Exchange",
+      "exchangeDescription": "Quick and simple cryptocurrency exchange with competitive rates",
+      "startExchangeButton": "Start Exchange",
+      "marketplaceTitle": "P2P Marketplace",
+      "marketplaceDescription": "Find the best offers from users around the world",
+      "visitMarketplaceButton": "Visit Marketplace",
+      "createOfferTitle": "Create Your Offer",
+      "createOfferDescription": "Set your own price and payment terms",
+      "createOfferButtonLabel": "Create Offer",
+      "createNewOfferButton": "Create New Offer",
+      "startTradingButton": "Start Trading",
+      "securityNote": "All transactions are secured on the Solana blockchain for maximum safety and transparency"
+    }
+  }
+}

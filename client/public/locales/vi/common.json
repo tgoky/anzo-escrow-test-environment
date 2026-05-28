@@ -1,0 +1,54 @@
+{
+  "header": {
+    "connect": "Kết nối",
+    "exchange": "Trao đổi",
+    "marketplace": "Thị trường",
+    "dashboard": "Bảng điều khiển",
+    "language": "Ngôn ngữ",
+    "theme": "Giao diện",
+    "darkMode": "Tối",
+    "lightMode": "Sáng",
+    "settings": "Cài đặt",
+    "globalPreferences": "Tùy chọn chung"
+  },
+  "exchange": {
+    "buy": "Mua",
+    "sell": "Bán",
+    "selectToken": "Chọn Token",
+    "enterAmount": "Nhập số lượng",
+    "payWith": "Thanh toán bằng",
+    "receiveMethod": "Phương thức nhận",
+    "youPay": "Bạn trả",
+    "youReceive": "Bạn nhận",
+    "reviewOrder": "Xem lại đơn hàng",
+    "placeOrder": "Đặt lệnh"
+  },
+  "marketplace": {
+    "buyOffers": "Đề nghị mua",
+    "sellOffers": "Đề nghị bán",
+    "price": "Giá",
+    "amount": "Số lượng",
+    "payment": "Thanh toán",
+    "actions": "Hành động",
+    "trade": "Giao dịch",
+    "filterBy": "Lọc theo",
+    "createOffer": "Tạo đề nghị"
+  },
+  "dashboard": {
+    "activity": "Hoạt động",
+    "offers": "Đề nghị",
+    "accounts": "Tài khoản",
+    "transactions": "Giao dịch",
+    "totalBalance": "Tổng số dư",
+    "recentActivity": "Hoạt động gần đây",
+    "viewAll": "Xem tất cả"
+  },
+  "account": {
+    "connected": "Đã kết nối",
+    "disconnect": "Ngắt kết nối",
+    "wallets": "Ví",
+    "banks": "Tài khoản ngân hàng",
+    "addAccount": "Thêm tài khoản",
+    "connectWallet": "Kết nối ví"
+  }
+}

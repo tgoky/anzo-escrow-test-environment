@@ -1,0 +1,54 @@
+{
+  "header": {
+    "connect": "连接",
+    "exchange": "交易所",
+    "marketplace": "市场",
+    "dashboard": "仪表板",
+    "language": "语言",
+    "theme": "主题",
+    "darkMode": "暗色",
+    "lightMode": "亮色",
+    "settings": "设置",
+    "globalPreferences": "全局偏好"
+  },
+  "exchange": {
+    "buy": "购买",
+    "sell": "出售",
+    "selectToken": "选择代币",
+    "enterAmount": "输入金额",
+    "payWith": "支付方式",
+    "receiveMethod": "接收方式",
+    "youPay": "您支付",
+    "youReceive": "您收到",
+    "reviewOrder": "审核订单",
+    "placeOrder": "下单"
+  },
+  "marketplace": {
+    "buyOffers": "买入报价",
+    "sellOffers": "卖出报价",
+    "price": "价格",
+    "amount": "数量",
+    "payment": "支付",
+    "actions": "操作",
+    "trade": "交易",
+    "filterBy": "筛选条件",
+    "createOffer": "创建报价"
+  },
+  "dashboard": {
+    "activity": "活动",
+    "offers": "报价",
+    "accounts": "账户",
+    "transactions": "交易",
+    "totalBalance": "总余额",
+    "recentActivity": "最近活动",
+    "viewAll": "查看全部"
+  },
+  "account": {
+    "connected": "已连接",
+    "disconnect": "断开连接",
+    "wallets": "钱包",
+    "banks": "银行账户",
+    "addAccount": "添加账户",
+    "connectWallet": "连接钱包"
+  }
+}
